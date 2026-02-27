@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Dotnet_API_18.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20260226135736_1")]
+    [Migration("20260226163143_1")]
     partial class _1
     {
         /// <inheritdoc />
